@@ -8,5 +8,6 @@ Das Blockly-Programm wird über W-Lan an den Roboter übertragen und dann direkt
 ![Bildschirmfoto 2022-06-23 um 19 54 22](https://user-images.githubusercontent.com/80636354/175364561-4b3d1245-0b31-495b-92c5-4162f39c649d.png)
 
 
+Video: https://youtu.be/jOzxhZ0cUeA
 
 

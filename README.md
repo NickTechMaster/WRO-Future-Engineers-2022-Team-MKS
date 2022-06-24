@@ -20,4 +20,5 @@ Video: https://youtu.be/jOzxhZ0cUeA
 ![4D22F299-205C-464F-B322-CE2C94EB3943](https://user-images.githubusercontent.com/92917467/175514895-c6d14799-1146-418c-9039-f18a5bebefbd.jpeg)
 
 
+[Schaltplan-TeamMKS.pdf](https://github.com/NickTechMaster/WRO-Future-Engineers-2022-Team-MKS/files/8975653/Schaltplan-TeamMKS.pdf)
 
